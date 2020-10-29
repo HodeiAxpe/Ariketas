@@ -1,0 +1,14 @@
+h1{
+	color:hotpink;
+	font-side:200px;
+	font-type:itali;
+	}
+.etzanda{
+	font-style:italic;
+	color:blue;
+	font-family:lucida sans;
+	}
+.lodia{
+	font-weight:bold;
+	color:green;
+	}

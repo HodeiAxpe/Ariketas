@@ -3,21 +3,22 @@
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
     <title>Errezeta</title>
-	<link rel="stylesheet" type="text/css" href="D:\HTML ARIKETAK\CSS-ak/"/>
+	<link rel="stylesheet" type="text/css" href="D:\HTML ARIKETAK\CSS-ak\Errezeta css.css"/>
   </head>
 	<body style="background-color:pink;">
-		<h1 align="center">Secreto ibérico de cerdo al horno<hr></h1><br><br>
+		<h1 align="center"><a class="link" href="https://www.recetasdeescandalo.com/secreto-iberico-de-cerdo-al-horno-con-patatas-asadas-y-cebolla-de-10/">Secreto ibérico de cerdo al horno</a></h1><hr><br>
 		
-		<div><img src="secreto.jpeg"
+		<div align="center"><a href="https://www.recetasdeescandalo.com/secreto-iberico-de-cerdo-al-horno-con-patatas-asadas-y-cebolla-de-10/"><img src="secreto.jpeg"
 		align="center"
-		width="500"
-		height="500">
+		width="1000"
+		height="500"
+		alt="Chuletica con patatitas"></a></div>
 		
-			<h2>Osagaiak</h2>
+			<h2 class="color">Osagaiak</h2>
 				<table>
 					<tr>
 						<ul>
-							<li class="color">Kilo 1 txerri iberiko sekretu (3-4 pieza inguru). Iberikoa ez bada ere, oso aberatsa da, baina iberikoa izanik, zaporea biderkatu egiten da.</li><br>
+							<li>Kilo 1 txerri iberiko sekretu (3-4 pieza inguru). Iberikoa ez bada ere, oso aberatsa da, baina iberikoa izanik, zaporea biderkatu egiten da.</li><br>
 							<li>Tamaina ertaineko 4-6 patata edo labeko erretilua estaltzeko behar dituzunak.</li><br>
 							<li>2 tipula.</li><br>
 							<li>200 ml garagardo.</li><br>
@@ -38,7 +39,7 @@
 						
 					</tr>
 				</table>
-			<h3>Nola egin txerriaren sekretu iberikoaren errezeta labean<hr></h3><br>
+			<h3 class="color">Nola egin txerriaren sekretu iberikoaren errezeta labean<hr></h3><br>
 			
 				<table>
 					<tr>

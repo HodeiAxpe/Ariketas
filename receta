@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+    <title>Errezeta</title>
+	<link rel="stylesheet" type="text/css" href="D:\HTML ARIKETAK\CSS-ak/"/>
+  </head>
+	<body style="background-color:pink;">
+		<h1 align="center">Secreto ibérico de cerdo al horno<hr></h1><br><br>
+		
+		<div><img src="secreto.jpeg"
+		align="center"
+		width="500"
+		height="500">
+		
+			<h2>Osagaiak</h2>
+				<table>
+					<tr>
+						<ul>
+							<li class="color">Kilo 1 txerri iberiko sekretu (3-4 pieza inguru). Iberikoa ez bada ere, oso aberatsa da, baina iberikoa izanik, zaporea biderkatu egiten da.</li><br>
+							<li>Tamaina ertaineko 4-6 patata edo labeko erretilua estaltzeko behar dituzunak.</li><br>
+							<li>2 tipula.</li><br>
+							<li>200 ml garagardo.</li><br>
+							<li>Oregano lehorra.</li><br>
+							<li>Piperbeltz ehoa.</li><br>
+							<li>Aceite de oliva eta gatza</li><br>
+							<li>Txerri-sekretuaren sarearentzako (gutxi gorabeherako kopuruak jartzen ditut, ez da ezer gertatzen osagai bat edo beste baino gehiago edo gutxiago gehitzen bada, baita batzuk pixka bat begiz jotzen badira ere):</li>
+							<ul>
+								<li>3 baratxuri lehor.</li>
+								<li>Koilarakada bat ziape-zopa frantses.</li>
+								<li>1/2 piperbeltz ehotuaren postre koilarakada.</li>
+								<li>Ezkai lehorreko postre koilarakada 1.</li>
+								<li>Erromero lehorreko postre koilarakada 1.</li>
+								<li>Gatz postre koilarakada 1.</li>
+								<li>Koilarakada 1 limoi-zukuaren zopa.</li>
+								<li>4 koilarakada oliba-olio zopa.</li>
+						</ul>
+						
+					</tr>
+				</table>
+			<h3>Nola egin txerriaren sekretu iberikoaren errezeta labean<hr></h3><br>
+			
+				<table>
+					<tr>
+						<ol>
+							<li>Atera sekretu iberikoko piezak hozkailutik, giro-tenperaturan labera iritsi eta hobeto kozinatu daitezen.</li><br>
+							<li>Majatua prestatzen hasi ginen. Jarri morteroan baratxuri zurituak piperbeltz ehoa, gatza, ezkaia eta erromeroa eta erabili pasta bat lortu arte.</li><br>
+							<li>Gehitu limoi-zukua eta nahastu pixka bat, eta, ondoren, sartu ziapea eta olioa, eta amaitu dena nahasten. Asmoa ongarria krematsu geratzea da, baina ez lodiegi; beraz, beharrezkoa ikusten baduzu, olio edo limoi zuku gehiago sartu. Ondo dagoela jakiteko, probak zaporez eta gaziz oso indartsuak direla nabaritu beharko duzu.</li><br>
+							<li>Jarri txerriaren sekretu iberikoaren piezak majatuarekin, sukaldeko brotxa baten laguntzaz eta bi aldeetatik.</li><br>
+							<li>Jarri patatak eta moztu xerratan, ez oso mehe, ez oso lodi, argazkian ikus dezakezunez. Bigunak geratzea eta gainetik asko ez ematea gustatzen bazaizu, egokiena labe-erretilu ez oso handi batean jartzea da, eta, gehienez ere, bi patata geruza (hori da nire aukera gustukoena). Aitzitik, nahiago baduzu patatak ez hain bigun eta apur bat urreztatuago geratzea, erabili labe-erretilu handiago bat, non ez dagoen patatarik besteen gainean, baizik eta guztiak geruza bakar batean.</li><br>
+							<li>Bota tipulak, moztu julianan, hau da, erditik eta tiratan, eta banatu patata artean.</li><br>
+							<li>Aurrez berotu labea 180ºC-tan, beroa gora eta behera eta haizagailua.</li><br>
+							<li>Bota garagardoa pataten artean eta ondoren bota gainetik gatza, piperbeltz ehoa eta gustura oreganoa, baita oliba olio txorrotada bat ere.</li><br>
+							<li>Jarri pataten gainean txerriaren sekretu-piezak, eta sartu erretilua labean, erdi parean.</li><br>
+							<li>Dena 30 minutuz garbitu, eta, une horretan, atera erretilua labetik, eman buelta sekretu iberikoko piezei eta jarri berriro erretilua labean.</li><br>
+							<li>20-30 minutu gehiago beharko dituzte labean, sekretupeko piezak urreztatuta baina erre gabe daudela ikusi arte, eta berdin patatekin. Zaindu erretilua ez dadila likidorik gabe geratu, beharrezkoa bada (batez ere erretilu handi bat erabili baduzu) gehitu garagardo gehiago. Gogoratu albo batetik bota, osagaien gainean dauden espeziak eta belarrak ez garbitzeko.</li><br>
+							<li>Atera erretilua labetik eta utzi 5 minutuz atseden hartzen.</li><br>
+						</ol>
+					</tr>
+				</table>
+	
+	
+	
+	
+	
+	</body>
+</html>

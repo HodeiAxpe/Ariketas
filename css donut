@@ -1,0 +1,50 @@
+.fondo{
+	display:block;
+	font-size: 24px;
+	margin: 0px;
+	background:gold;
+	width: 100%;
+	min-height: 60px;
+	line-height: 60px;
+	
+}
+
+nav a {
+	margin-left: 7%
+	
+}
+
+a{
+	color:black;
+}
+h1{
+	color:white;
+	text-shadow: 2px 2px 4px #000000;
+}
+a:hover{
+	color:white;
+}
+body{
+	background-image: url("https://img.freepik.com/vector-gratis/patron-fisuras-donas-glaseadas_27991-309.jpg?size=626&ext=jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size:100% 100%;
+}
+.noticia {
+  width: 50%;
+  margin: 20px auto;
+  background-color: white;
+  color: brown;
+  padding: 15px;
+  border: 1px solid black;
+}
+.reset {
+  clear: both;
+}
+.izquierda {
+  float: left;
+  margin-right: 15px;
+}
+.centro{
+	text-align: center;
+}

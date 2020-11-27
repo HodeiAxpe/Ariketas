@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="pagina web1" content="1.ebaluaketa">
+  <title>Comida_Rapida_index</title>
+  <link rel="stylesheet" type="text/css" href="CSS-ak/animales.css">
+</head>
+<body class="imagen-fondo">
+		<nav class="fondo">
+			<a href="McDonald's.html">McDonald's</a>
+			<a href="">Burgerking</a>
+			<a href="">KFC</a>
+			<a href="">Subway</a>
+			<a href="">Starbucks</a>
+			<a href="">Domino's Pizza</a>
+		</nav><hr>
+	
+	<h1 class="centro">Comida rápida</h1><hr>
+	<div class="noticia">
+	<p>El concepto de comida rápida es un estilo de alimentación donde el alimento se prepara y sirve para consumir rápidamente en establecimientos especializados (generalmente callejeros o a pie de calle).</p>
+	<p>Aunque ya desde la antigua Roma se servían en puestos callejeros panes planos con olivas o el faláfel en el Medio Oriente, no es hasta el año 1912 cuando se abre el primer automat, un local que ofrecía comida detrás de una ventana de vidrio y una ranura para pagar.</p><br>
+	<p>Una de las características más importantes de la comida rápida es la homogeneidad de los establecimientos donde se sirve, así como la ausencia de camareros que sirvan en mesa, y el hecho de que la comida se sirva sin cubiertos.</p>
+	<div class="reset"></div>
+	</div><br>
+	
+	
+	
+</body>
+</html>
